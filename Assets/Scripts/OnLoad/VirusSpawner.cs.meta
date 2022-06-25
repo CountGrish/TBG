@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 996d21a14e9dc2c4989ae59b8dc20d80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_Virus: {fileID: 7504896013731341319, guid: bd2221464d6a8c24d95a50e2922bcbfb,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
